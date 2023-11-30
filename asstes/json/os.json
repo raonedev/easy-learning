@@ -1,0 +1,202 @@
+[
+  {
+    "title": "OS Lecture 1 : Introduction to UNIX System Calls Part 1  ",
+    "img": "https://i.ytimg.com/vi_webp/dEWplhfg4Dg/hqdefault.webp",
+    "url": "https://youtu.be/dEWplhfg4Dg"
+  },
+  {
+    "title": "OS Lecture 2 : Introduction to UNIX System Calls Part 2",
+    "img": "https://i.ytimg.com/vi_webp/rtXI2kFQl4E/hqdefault.webp",
+    "url": "https://youtu.be/rtXI2kFQl4E"
+  },
+  {
+    "title": "OS Lecture 3 : Threads, Address Spaces, Filesystem, Devices",
+    "img": "https://i.ytimg.com/vi_webp/e-zvnRSl4k8/hqdefault.webp",
+    "url": "https://youtu.be/e-zvnRSl4k8"
+  },
+  {
+    "title": "OS Lecture 4 : PC Architecture",
+    "img": "https://i.ytimg.com/vi_webp/gNKRfRcNpGU/hqdefault.webp",
+    "url": "https://youtu.be/gNKRfRcNpGU"
+  },
+  {
+    "title": "OS Lecture 5 : x86 Instruction Set, GCC Calling Conventions",
+    "img": "https://i.ytimg.com/vi_webp/EasRfKf4lKA/hqdefault.webp",
+    "url": "https://youtu.be/EasRfKf4lKA"
+  },
+  {
+    "title": "OS Lecture 6 : Physical Memory Map, I/O, Segmentation",
+    "img": "https://i.ytimg.com/vi_webp/djlZenU5fvg/hqdefault.webp",
+    "url": "https://youtu.be/djlZenU5fvg"
+  },
+  {
+    "title": "OS Lecture 7 : Segmentation, Trap Handling",
+    "img": "https://i.ytimg.com/vi_webp/E4mQG_S02HI/hqdefault.webp" ,
+    "url": "https://youtu.be/E4mQG_S02HI"
+  },
+  {
+    "title": "OS Lecture 8 : Traps, Trap Handlers",
+    "img": "https://i.ytimg.com/vi_webp/3Vxv6_QcYkQ/hqdefault.webp",
+    "url": "https://youtu.be/3Vxv6_QcYkQ"
+  },
+  {
+    "title": "OS Lecture 9 : Kernel data structures, Memory Management",
+    "img": "https://i.ytimg.com/vi_webp/Y7z8vW__6cQ/hqdefault.webp",
+    "url": "https://youtu.be/Y7z8vW__6cQ"
+  },
+  {
+    "title": "OS Lecture 10 : Segmentation Review, Introduction to Paging",
+    "img": "https://i.ytimg.com/vi_webp/vWPJRygTIwQ/hqdefault.webp",
+    "url": "https://youtu.be/vWPJRygTIwQ"
+  },
+  {
+    "title": "OS Lecture 11 : Paging",
+    "img": "https://i.ytimg.com/vi_webp/SmG1-rbtMGs/hqdefault.webp",
+    "url": "https://youtu.be/SmG1-rbtMGs"
+  },
+  {
+    "title": "OS Lecture 12 : Process Address Spaces using Paging",
+    "img": "https://i.ytimg.com/vi_webp/KSmFwu9TUi8/hqdefault.webp",
+    "url": "https://youtu.be/KSmFwu9TUi8"
+  },
+  {
+    "title": "OS Lecture 13 : Translation Lookaside Buffer, Large Pages, Boot Sector",
+    "img": "https://i.ytimg.com/vi_webp/j908a-LRyZg/hqdefault.webp",
+    "url": "https://youtu.be/j908a-LRyZg"
+  },
+  {
+    "title": "OS Lecture 14 : Loading the Kernel, Initializing the Page Table",
+    "img": "https://i.ytimg.com/vi_webp/WPyhtGhXNtY/hqdefault.webp",
+    "url": "https://youtu.be/WPyhtGhXNtY"
+  },
+  {
+    "title": "OS Lecturere 15 : Setting up page table for user processes",
+    "img": "https://i.ytimg.com/vi_webp/7xdOsKlWcI8/hqdefault.webp",
+    "url": "https://youtu.be/7xdOsKlWcI8"
+  },
+  {
+    "title": "OS Lecture 16 : Processes in action",
+    "img": "https://i.ytimg.com/vi_webp/vDMYdEDz00E/hqdefault.webp",
+    "url": "https://youtu.be/vDMYdEDz00E"
+  },
+  {
+    "title": "OS Lecture 17 : Process structure, Context switching",
+    "img": "https://i.ytimg.com/vi_webp/wGhV_5ky33o/hqdefault.webp",
+    "url": "https://youtu.be/wGhV_5ky33o"
+  },
+  {
+    "title": "OS Lecture 18 : Process kstack, Scheduler, Fork, Context-switch, PCB, Trap entry/return",
+    "img": "https://i.ytimg.com/vi_webp/Wyp1dADwXo8/hqdefault.webp",
+    "url": "https://youtu.be/Wyp1dADwXo8"
+  },
+  {
+    "title": "OS Lecture 19 : Creating the first process",
+    "img": "https://i.ytimg.com/vi_webp/HRF6f00z7lE/hqdefault.webp",
+    "url": "https://youtu.be/HRF6f00z7lE"
+  },
+  {
+    "title": "OS Lecture 20 : Handling User Pointers, Concurrency",
+    "img": "https://i.ytimg.com/vi_webp/twM58kkpjQw/hqdefault.webp",
+    "url": "https://youtu.be/twM58kkpjQw"
+  },
+  {
+    "title": "OS Lecture 21 : Locking",
+    "img": "https://i.ytimg.com/vi_webp/_sqfWKJhryY/hqdefault.webp",
+    "url": "https://youtu.be/_sqfWKJhryY"
+  },
+  {
+    "title": "OS Lecture 22 : Fine-grained locking and its challenges",
+    "img": "https://i.ytimg.com/vi_webp/WTVOzmRsui4/hqdefault.webp",
+    "url": "https://youtu.be/WTVOzmRsui4"
+  },
+  {
+    "title": "OS Lecture 23 : Locking variations",
+    "img": "https://i.ytimg.com/vi_webp/vSmJ17PDjwg/hqdefault.webp",
+    "url": "https://youtu.be/vSmJ17PDjwg"
+  },
+  {
+    "title": "OS Lecture 24 : Condition Variables",
+    "img": "https://i.ytimg.com/vi_webp/T2Od1nNwtnA/hqdefault.webp",
+    "url": "https://youtu.be/T2Od1nNwtnA"
+  },
+  {
+    "title": "OS Lecture 25 : Multiple producer-multiple consumer queue, Semaphores, Monitors",
+    "img": "https://i.ytimg.com/vi_webp/xjMXe2wVm0E/hqdefault.webp",
+    "url": "https://youtu.be/xjMXe2wVm0E"
+  },
+  {
+    "title": "OS Lecture 26 : Transactions and lock-free primitives, Read/write locks",
+    "img": "https://i.ytimg.com/vi_webp/g_EkObtAEFY/hqdefault.webp",
+    "url": "https://youtu.be/g_EkObtAEFY"
+  },
+  {
+    "title": "OS Lecture 27 : Synchronization in xv6: acquire/release, sleep/wakeup, exit/wait",
+    "img": "https://i.ytimg.com/vi_webp/YisW61px9Vk/hqdefault.webp",
+    "url": "https://youtu.be/YisW61px9Vk"
+  },
+  {
+    "title": "OS Lecture 28 : More sychronization in xv6: kill, IDE device driver; Introduction to Demand Paging",
+    "img": "https://i.ytimg.com/vi_webp/6gCKayTRI1s/hqdefault.webp",
+    "url": "https://youtu.be/6gCKayTRI1s"
+  },
+  {
+    "title": "OS Lecture 29 : Demand Paging; Introduction to Page Replacement",
+    "img": "https://i.ytimg.com/vi_webp/9LPI42d2BzM/hqdefault.webp",
+    "url": "https://youtu.be/9LPI42d2BzM"
+  },
+  {
+    "title": "OS Lecture 30 : Page Replacement, Thrashing",
+    "img": "https://i.ytimg.com/vi_webp/Jh5la9fkA84/hqdefault.webp",
+    "url": "https://youtu.be/Jh5la9fkA84"
+  },
+  {
+    "title": "OS Lecture 31 : Storage devices, Filesystem interfaces",
+    "img": "https://i.ytimg.com/vi_webp/VUXzSuDjszE/hqdefault.webp",
+    "url": "https://youtu.be/VUXzSuDjszE"
+  },
+  {
+    "title": "OS Lecture 32 : Filesystem Implementation",
+    "img": "https://i.ytimg.com/vi_webp/xiq_n4im_1k/hqdefault.webp",
+    "url": "https://youtu.be/xiq_n4im_1k"
+  },
+  {
+    "title": "OS Lecture 33 : Filesystem Operations",
+    "img": "https://i.ytimg.com/vi_webp/roJdEj8DnFQ/hqdefault.webp",
+    "url": "https://youtu.be/roJdEj8DnFQ"
+  },
+  {
+    "title": "OS Lecture 34 : Crash Recovery and Logging",
+    "img": "https://i.ytimg.com/vi_webp/YdxtClOpQ-4/hqdefault.webp",
+    "url": "https://youtu.be/YdxtClOpQ-4"
+  },
+  {
+    "title": "OS Lecture 35 : Logging in Linux ext3 filesystem",
+    "img": "https://i.ytimg.com/vi_webp/pZ17tQBYfV4/hqdefault.webp",
+    "url": "https://youtu.be/pZ17tQBYfV4"
+  },
+  {
+    "title": "OS Lecture 36 : Protection and Security",
+    "img": "https://i.ytimg.com/vi_webp/-vkEEQxp8NY/hqdefault.webp",
+    "url": "https://youtu.be/-vkEEQxp8NY"
+  },
+  {
+    "title": "OS Lecture 37 : Scheduling Policies",
+    "img": "https://i.ytimg.com/vi_webp/EsbrYO-M9q4/hqdefault.webp",
+    "url": "https://youtu.be/EsbrYO-M9q4"
+  },
+  {
+    "title": "OS Lecture 38 : Lock-free multiprocessor coordination, Read-Copy-Update",
+    "img": "https://i.ytimg.com/vi_webp/WkxS_TBRXjE/hqdefault.webp",
+    "url": "https://youtu.be/WkxS_TBRXjE"
+  },
+  {
+    "title": "OS Lecture 39 : Microkernel, Exokernel, Multikernel",
+    "img": "https://i.ytimg.com/vi_webp/hpbkcnZF_hI/hqdefault.webp",
+    "url": "https://youtu.be/hpbkcnZF_hI"
+  },
+  {
+    "title": "OS Lecture 40 : Virtualization, Cloud Computing, Technology Trends",
+    "img": "https://i.ytimg.com/vi_webp/CInnSqzbQCo/hqdefault.webp",
+    "url": "https://youtu.be/CInnSqzbQCo"
+  }
+]

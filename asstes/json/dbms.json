@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Course Overview",
+        "img": "https://i.ytimg.com/vi/SkT7jhPAQOE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDXoRh-NlblNECpCBP4F71j0pkjGw",
+        "url": "https://youtu.be/SkT7jhPAQOE"
+    },
+    {
+        "title": "Introduction to DBMS/1",
+        "img": "https://i.ytimg.com/vi/OWX4RvijwLw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB1OzILotnlPSlBGJY73XP1tmkAhQ",
+        "url": "https://youtu.be/OWX4RvijwLw"
+    },
+    {
+        "title": "Introduction to DBMS/2",
+        "img": "https://i.ytimg.com/vi/rrG7azSlyWI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDY_O8LgWFXjUOyoZiFSTsQHquuJw",
+        "url": "https://youtu.be/rrG7azSlyWI"
+    },
+    {
+        "title": "Introduction to Relational Model/1",
+        "img": "https://i.ytimg.com/vi/DRSog3SA4-Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAtyx10GDnooXZqp2EKr_Uu_zdznw",
+        "url": "https://youtu.be/DRSog3SA4-Y"
+    },
+    {
+        "title": "Introduction to SQL/1",
+        "img": "https://i.ytimg.com/vi/w1XdPholzWY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA0Ib5oJSywb6apieh96NvouO5bAg",
+        "url": "https://youtu.be/w1XdPholzWY"
+    },
+    {
+        "title": "Introduction to SQL/2",
+        "img": "https://i.ytimg.com/vi/ywUn5qNmxNo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC66EYD5JdAV-lzVavsc8aFS9_p-A",
+        "url": "https://youtu.be/ywUn5qNmxNo"
+    },
+    {
+        "title": "Introduction to SQL/3",
+        "img": "https://i.ytimg.com/vi/fsDBUDKC_iM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD-IyIF1W8kJhxWh5teyGTIVYws2A",
+        "url": "https://youtu.be/fsDBUDKC_iM"
+    },
+    {
+        "title": "Intermediate SQL/1",
+        "img": "https://i.ytimg.com/vi/A0h9DFU0xEc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD629Ufz_p4YNONeBsZSFv14djvWA",
+        "url": "https://youtu.be/A0h9DFU0xEc"
+    },
+    {
+        "title": "Advanced SQL",
+        "img": "https://i.ytimg.com/vi/B9tS_JNbW00/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCPME1VBN5zMdyD3Q1DqCTBKJk7lw",
+        "url": "https://youtu.be/B9tS_JNbW00"
+    },
+    {
+        "title": "Formal Relational Query Languages",
+        "img": "https://i.ytimg.com/vi/iHrvzgQxybY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCFdMYGFx-TX2oH2jCOYHSZcQrn_g",
+        "url": "https://youtu.be/iHrvzgQxybY"
+    },
+    {
+        "title": "Entity-Relationship Model/1",
+        "img": "https://i.ytimg.com/vi/cx7rBTS2dBM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDyItOG-JM78yADTs9C4ZHP7PHOUQ",
+        "url": "https://youtu.be/cx7rBTS2dBM"
+    },
+    {
+        "title": "Entity-Relationship Model/2",
+        "img": "https://i.ytimg.com/vi/pm_Tr3eZAac/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDzk8xtxKWUs6tR1SzyZQYZwAtYMg",
+        "url": "https://youtu.be/pm_Tr3eZAac"
+    },
+    {
+        "title": "Entity-Relationship Model/3",
+        "img": "https://i.ytimg.com/vi/LMAELfNAGF4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCpB_XQFEgzWL_PPYl_til53Bg2-Q",
+        "url": "https://youtu.be/LMAELfNAGF4"
+    },
+    {
+        "title": "Intermediate SQL/2",
+        "img": "https://i.ytimg.com/vi/xACa5cEeUBg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAJC0TtHWtK6b4oDxf3Lv3cvjGwgg",
+        "url": "https://youtu.be/xACa5cEeUBg"
+    },
+    {
+        "title": "Relational Database Design/1",
+        "img": "https://i.ytimg.com/vi/K5jqNjnE-pE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD2fu1mJTms1IPtE2FU0c5xmGsWyA",
+        "url": "https://youtu.be/K5jqNjnE-pE"
+    },
+    {
+        "title": "Relational Database Design (Contd.)-1",
+        "img": "https://i.ytimg.com/vi/9-uqoJK6KPc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA7N9159GhFZhHjIztXCPQAe80DYQ",
+        "url": "https://youtu.be/9-uqoJK6KPc"
+    },
+    {
+        "title": "Relational Database Design (Contd.) - 2",
+        "img": "https://i.ytimg.com/vi/vdd-fDCypTc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA_Bf9x46aTdCCwYdzJAHa5Kmi-CA",
+        "url": "https://youtu.be/vdd-fDCypTc"
+    },
+    {
+        "title": "Relational Database Design (Contd.) - 3",
+        "img": "https://i.ytimg.com/vi/EnTIVJi4bW4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC3AKwiMcZLM-tVNbNw3A7knvMXHA",
+        "url": "https://youtu.be/EnTIVJi4bW4"
+    },
+    {
+        "title": "Relational Database Design (Contd)- 4",
+        "img": "https://i.ytimg.com/vi/qz0bimEpdQo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDBhhoi1Oz-Fay_xrXwA0bRwlod1w",
+        "url": "https://youtu.be/qz0bimEpdQo"
+    },
+    {
+        "title": "Application Design and Development/1",
+        "img": "https://i.ytimg.com/vi/Uu8tzXL1UZI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDNLA5ag1WeGsJGFNOUhYklBRyAJA",
+        "url": "https://youtu.be/Uu8tzXL1UZI"
+    },
+    {
+        "title": "Application Design and Development/2",
+        "img": "https://i.ytimg.com/vi/opewcCTXgcw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAdGH7UKLH2OKZ57WE8BT4QMARuTw",
+        "url": "https://youtu.be/opewcCTXgcw"
+    },
+    {
+        "title": "Application Design and Development/3",
+        "img": "https://i.ytimg.com/vi/tg9pOGbAYZE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA_7yCeSWErxHFl5YzMHFM2OX3iOw",
+        "url": "https://youtu.be/tg9pOGbAYZE"
+    },
+    {
+        "title": "Storage and File Structure/1:Storage",
+        "img": "https://i.ytimg.com/vi/1IWtpmIniHQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBjjh8hF6njHr6AJmSPEzwkOtcntg",
+        "url": "https://youtu.be/1IWtpmIniHQ"
+    },
+    {
+        "title": "Storage and File Structure/2:File Structure",
+        "img": "https://i.ytimg.com/vi/QX2AfS5TDB4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCp8vHBCF5M_UZc95j-LZU_nBeWUA",
+        "url": "https://youtu.be/QX2AfS5TDB4"
+    },
+    {
+        "title": "Indexing and Hashing/1:Indexing/1",
+        "img": "https://i.ytimg.com/vi/PYsA4xTL3e4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLACYiw0Q-Z3acWxeOgE5z_DZRcAcg",
+        "url": "https://youtu.be/PYsA4xTL3e4"
+    },
+    {
+        "title": "Indexing and Hashing/2:Indexing/2",
+        "img": "https://i.ytimg.com/vi/vTjDOfKbCBY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDMLAOohdzHOlf7abnWOnCtwWabCA",
+        "url": "https://youtu.be/vTjDOfKbCBY"
+    },
+    {
+        "title": "Indexing and Hashing/3:Indexing/3",
+        "img": "https://i.ytimg.com/vi/xWXfAFr2k3U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDtNSvIxxM2eavL9IJWDugIgtZ0eg",
+        "url": "https://youtu.be/xWXfAFr2k3U"
+    },
+    {
+        "title": "Indexing and Hashing/4:Hashing",
+        "img": "https://i.ytimg.com/vi/Wo6_yxO9kPk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDteju4o4BDVjrsSGk-_YV1bwTDNA",
+        "url": "https://youtu.be/Wo6_yxO9kPk"
+    },
+    {
+        "title": "Indexing and Hashing/5:Index Design",
+        "img": "https://i.ytimg.com/vi/9TCj_f0TVQM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDzM45L8FKMtJ_roy4qdn3cyCy4WQ",
+        "url": "https://youtu.be/9TCj_f0TVQM"
+    },
+    {
+        "title": "Transactions/1",
+        "img": "https://i.ytimg.com/vi/TyT_MuPHG3g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBL7wbRJgStUIyBwehGbxOZ2JhJ6Q",
+        "url": "https://youtu.be/TyT_MuPHG3g"
+    },
+    {
+        "title": "Lecture 31: Transactions/1 : Serializability",
+        "img": "https://i.ytimg.com/vi/IwkLWVBkC74/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCfNL2r6QN6_lhE6JLHmA5shTyqFA",
+        "url": "https://youtu.be/IwkLWVBkC74"
+    },
+    {
+        "title": "Transactions/2: Serializability",
+        "img": "https://i.ytimg.com/vi/h3LekjFg2uY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDgUvL8rbVsLm5mwSQlvQyVW2gaxw",
+        "url": "https://youtu.be/h3LekjFg2uY"
+    },
+    {
+        "title": "Transactions/3: Recoverability",
+        "img": "https://i.ytimg.com/vi/1d4BFaIQDIA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA2zsWgD2xe8yGCUDqIofWunUq4qQ",
+        "url": "https://youtu.be/1d4BFaIQDIA"
+    },
+    {
+        "title": "Concurrency Control/1",
+        "img": "https://i.ytimg.com/vi/L0m4k1ApZtA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDaPeXs3BN3AAU8qeDQ82V0q3tvSg",
+        "url": "https://youtu.be/L0m4k1ApZtA"
+    },
+    {
+        "title": "Concurrency Control/2",
+        "img": "https://i.ytimg.com/vi/TVPSuTgfaSk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC-3esYJsg6RBmqTE2zIBmdftn4qA",
+        "url": "https://youtu.be/TVPSuTgfaSk"
+    },
+    {
+        "title": "Recovery/1",
+        "img": "https://i.ytimg.com/vi/rjcM9_r656g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDSkZt5vclnGsCn7F0oxX-8DKkT-w",
+        "url": "https://youtu.be/rjcM9_r656g"
+    },
+    {
+        "title": "Recovery/2",
+        "img": "https://i.ytimg.com/vi/AouTGmRqa3E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDzGX6Z4fNyFV1pXH53MgpThBU8dQ",
+        "url": "https://youtu.be/AouTGmRqa3E"
+    },
+    {
+        "title": "Query Processing and Optimization/1:Processing",
+        "img": "https://i.ytimg.com/vi/Sn_Wkf9KNEg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDwzQaP6SySS8qIibyJOP6_oHEUVQ",
+        "url": "https://youtu.be/Sn_Wkf9KNEg"
+    },
+    {
+        "title": "Query Processing and Optimization/2: Optimization",
+        "img": "https://i.ytimg.com/vi/uGMnOgOSmmI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCeHJbz1VxD-ko2bDpFXb6JB7eaFw",
+        "url": "https://youtu.be/uGMnOgOSmmI"
+    },
+    {
+        "title": "Course Summarization",
+        "img": "https://i.ytimg.com/vi/ZI4bwd1njjI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAkcSPKnAh2semAhWSf8sI2k4yIcg",
+        "url": "https://youtu.be/ZI4bwd1njjI"
+    }
+]

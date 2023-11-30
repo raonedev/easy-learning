@@ -1,0 +1,303 @@
+
+[
+    {
+        "title": "Lecture 01: Introduction",
+        "img": "https://i.ytimg.com/vi/OjdT2l-EZJA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBjZuBlywhb834a-bga5gnm42JM1w",
+        "url": "https://youtu.be/OjdT2l-EZJA"
+    },
+    {
+        "title": "Lecture 02: Java Programming Steps",
+        "img": "https://i.ytimg.com/vi/VksxhzfD8kQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAOUHyi4BOCmHpCsTkJPtcFopSzLQ",
+        "url": "https://youtu.be/VksxhzfD8kQ"
+    },
+    {
+        "title": "Lecture 03: Java Tools and Resources",
+        "img": "https://i.ytimg.com/vi/1B5ppTif5ZY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB3iZl2ia9538u7YI1Nf7dxuC_jbg",
+        "url": "https://youtu.be/1B5ppTif5ZY"
+    },
+    {
+        "title": "Lecture 04: Demonstration - I",
+        "img": "https://i.ytimg.com/vi/2duE6dWb6dY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBR6Mi4daingirvnm-hGmhXTWsFfA",
+        "url": "https://youtu.be/2duE6dWb6dY"
+    },
+    {
+        "title": "Lecture 05: Java Applet Programming",
+        "img": "https://i.ytimg.com/vi/0pzR2FGTEhk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDgb61w4SvEjCe6Dno_85HhJVKnTg",
+        "url": "https://youtu.be/0pzR2FGTEhk"
+    },
+    {
+        "title": "Lecture 06: Demonstration-II",
+        "img": "https://i.ytimg.com/vi/DLyCB2a4Tb4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCzDnGsqCMrEh_RW9Asm_S0EooRdw",
+        "url": "https://youtu.be/DLyCB2a4Tb4"
+    },
+    {
+        "title": "Lecture 07: Encapsulation",
+        "img": "https://i.ytimg.com/vi/K9gQwLeNXyw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDr9w2Ihgh8Y5INUBnV0R25z3_7DQ",
+        "url": "https://youtu.be/K9gQwLeNXyw"
+    },
+    {
+        "title": "Lecture 08: Demonstration-III",
+        "img": "https://i.ytimg.com/vi/4wZ_3oLoYiY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDO8PsvkDEcVxbpwV0DQsTXwV4YOQ",
+        "url": "https://youtu.be/4wZ_3oLoYiY"
+    },
+    {
+        "title": "Lecture 09: Java Programming Insights",
+        "img": "https://i.ytimg.com/vi/Ep1UB12YkzI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCljKwGt51ZbdobnoWI931hEU0fQw",
+        "url": "https://youtu.be/Ep1UB12YkzI"
+    },
+    {
+        "title": "Lecture 10: Demonstration-IV",
+        "img": "https://i.ytimg.com/vi/o_2f3rujJUo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCEJGx_JnA83UjA0So9A1aeaogg6Q",
+        "url": "https://youtu.be/o_2f3rujJUo"
+    },
+    {
+        "title": "Lecture 11:Java Static Scope Rule",
+        "img": "https://i.ytimg.com/vi/VNvyB0wjE5Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLATIPe9ho_RmnszgPYuifcBHtDh-Q",
+        "url": "https://youtu.be/VNvyB0wjE5Y"
+    },
+    {
+        "title": "Lecture 12: Demonstration-V",
+        "img": "https://i.ytimg.com/vi/eKckLidjtP8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBreaCpMlFsaqBLjCjfi7tFZoqKmQ",
+        "url": "https://youtu.be/eKckLidjtP8"
+    },
+    {
+        "title": "Lecture 13: Inheritance",
+        "img": "https://i.ytimg.com/vi/rxsl1TzcEgg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAJ1zOstP1h8TLSCbcxyCKOic7F-A",
+        "url": "https://youtu.be/rxsl1TzcEgg"
+    },
+    {
+        "title": "Lecture 14: Demonstration-VI",
+        "img": "https://i.ytimg.com/vi/Xpw11pR41ps/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDB_nsxooJfJH2pCVWn1nDyD4Jw6A",
+        "url": "https://youtu.be/Xpw11pR41ps"
+    },
+    {
+        "title": "Lecture 15: Information Hiding",
+        "img": "https://i.ytimg.com/vi/t4GPGkLh4Vg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAswozSb0Hm7E9GvKNHyTBPbRYZaw",
+        "url": "https://youtu.be/t4GPGkLh4Vg"
+    },
+    {
+        "title": "Lecture 16: Demonstration-VII",
+        "img": "https://i.ytimg.com/vi/UarOS8o-_7Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDx8WP0QXOsDRwUYPkR-Xo74Q_0dQ",
+        "url": "https://youtu.be/UarOS8o-_7Q"
+    },
+    {
+        "title": "Lecture 17: Packages-I",
+        "img": "https://i.ytimg.com/vi/TwU3cv1FFis/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAzEIRMOObRSL7SkHoJdU_ijSpp3g",
+        "url": "https://youtu.be/TwU3cv1FFis"
+    },
+    {
+        "title": "Lecture 18: Packages-II",
+        "img": "https://i.ytimg.com/vi/cXtUhpZJYz8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD3IhQZL4_NkkrCQFVkCt5EPt0lJQ",
+        "url": "https://youtu.be/cXtUhpZJYz8"
+    },
+    {
+        "title": "Lecture 19: Demonstration-VIII",
+        "img": "https://i.ytimg.com/vi/ujwFdWjw8uY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC52lDApCgDJzkX_JScWgsB3w1zaQ",
+        "url": "https://youtu.be/ujwFdWjw8uY"
+    },
+    {
+        "title": "Lecture 20: Interface-I",
+        "img": "https://i.ytimg.com/vi/qgBv1_Plldo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD4M4vrudcZqYuumE8LpB-KAfJDhA",
+        "url": "https://youtu.be/qgBv1_Plldo"
+    },
+    {
+        "title": "Lecture 21: Interface-II",
+        "img": "https://i.ytimg.com/vi/nFH-Hm8iTR0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBbD15uf8fZ47IQVM5E1a85Oq0ERA",
+        "url": "https://youtu.be/nFH-Hm8iTR0"
+    },
+    {
+        "title": "Lecture 22: Demonstration-IX",
+        "img": "https://i.ytimg.com/vi/NfC_WDL5ugo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDukCYS9-MPJgYZjZkGhyvBPGDeZg",
+        "url": "https://youtu.be/NfC_WDL5ugo"
+    },
+    {
+        "title": "Lecture 23: Exception Handling-I",
+        "img": "https://i.ytimg.com/vi/vUov8EkjZjU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLADmlqqelg3Ci7_bYjF-9WNlAT8Og",
+        "url": "https://youtu.be/vUov8EkjZjU"
+    },
+    {
+        "title": "Lecture 24: Exception Handling-II",
+        "img": "https://i.ytimg.com/vi/QFbxzynUij4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBThEEZUitPKTHygUKJfsI1KhvHQA",
+        "url": "https://youtu.be/QFbxzynUij4"
+    },
+    {
+        "title": "Lecture 25: Exception Handling-III",
+        "img": "https://i.ytimg.com/vi/W4Zve_x0o30/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAny1QrwE8Yzv-ztNqPtVhN_uUzKg",
+        "url": "https://youtu.be/W4Zve_x0o30"
+    },
+    {
+        "title": "Lecture 26: Demonstration-X",
+        "img": "https://i.ytimg.com/vi/DATCrVTsPcU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCwSHENykoPzrKzHJVIupiew_rCzg",
+        "url": "https://youtu.be/DATCrVTsPcU"
+    },
+    {
+        "title": "Lecture 27: Multithreading-I",
+        "img": "https://i.ytimg.com/vi/6rYOyIGfy3w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAkb5x_KDHZ4dE9VhfVjDokrNQCng",
+        "url": "https://youtu.be/6rYOyIGfy3w"
+    },
+    {
+        "title": "Lecture 28: Multithreading-II",
+        "img": "https://i.ytimg.com/vi/Kni0HMvq1Ig/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCXERUfjY-4RDXZfUsTRuG2ZXKQvQ",
+        "url": "https://youtu.be/Kni0HMvq1Ig"
+    },
+    {
+        "title": "Lecture 29: Demonstration-XI",
+        "img": "https://i.ytimg.com/vi/gTUa53wRwA8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB_BS5G94443lCkvloSyAAFtGT6mw",
+        "url": "https://youtu.be/gTUa53wRwA8"
+    },
+    {
+        "title": "Lecture 30: I-O Stream-I",
+        "img": "https://i.ytimg.com/vi/lYuj9nn0PBU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB1CtDy40z_qVMsdUbgXLdXjEmkfg",
+        "url": "https://youtu.be/lYuj9nn0PBU"
+    },
+    {
+        "title": "Lecture 31: I-O Stream-II",
+        "img": "https://i.ytimg.com/vi/fnFQWtZZE-4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLByr41qMKlo_OV-Lai90JPEwvn0ww",
+        "url": "https://youtu.be/fnFQWtZZE-4"
+    },
+    {
+        "title": "Lecture 32: I-O Stream-III",
+        "img": "https://i.ytimg.com/vi/yaMB5waxHK4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDDlWi-AaIh-CbT52Zf0MKSNoUskw",
+        "url": "https://youtu.be/yaMB5waxHK4"
+    },
+    {
+        "title": "Lecture 33: Demonstration-XII",
+        "img": "https://i.ytimg.com/vi/nAmHYh-1_eI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCQ4pgp8hGpwKUhbjThxShgiOlN-A",
+        "url": "https://youtu.be/nAmHYh-1_eI"
+    },
+    {
+        "title": "Lecture 34: Applet Programming—I",
+        "img": "https://i.ytimg.com/vi/cC_Ij7WmP_k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGte4hHTWilN2RF8-I5Gih57sWZw",
+        "url": "https://youtu.be/cC_Ij7WmP_k"
+    },
+    {
+        "title": "Lecture 35: Applet Programming—II",
+        "img": "https://i.ytimg.com/vi/WA4FDPTZsQk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBj_F3MU4A-LTsjJ1bxtNr3JGL7aQ",
+        "url": "https://youtu.be/WA4FDPTZsQk"
+    },
+    {
+        "title": "Lecture 36: Applet Programming--III",
+        "img": "https://i.ytimg.com/vi/hDgPoi7PrzM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAmfCdHZPVvTFq3JB_0qbgLh7R8wA",
+        "url": "https://youtu.be/hDgPoi7PrzM"
+    },
+    {
+        "title": "Lecture 37: Demonstration-XIII",
+        "img": "https://i.ytimg.com/vi/8bpt6loanHM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAYY6MY-kuoNFKbsD8MRB5PU8YL6w",
+        "url": "https://youtu.be/8bpt6loanHM"
+    },
+    {
+        "title": "Lecture 38: Demonstration-XIV",
+        "img": "https://i.ytimg.com/vi/2LuqZ9t0ciE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDP27F19GmhY1UztTQv340VXF8NGQ",
+        "url": "https://youtu.be/2LuqZ9t0ciE"
+    },
+    {
+        "title": "Lecture 39: AWT Programming—I",
+        "img": "https://i.ytimg.com/vi/Vtc-eipVgL0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDDpuzKVCDzIGenuEtg9D5kZMEZTw",
+        "url": "https://youtu.be/Vtc-eipVgL0"
+    },
+    {
+        "title": "Lecture 40: AWT Programming—II",
+        "img": "https://i.ytimg.com/vi/QWg4D2Yvrak/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB4RA_jtndf7wInKCig4e9c8fJ9Yw",
+        "url": "https://youtu.be/QWg4D2Yvrak"
+    },
+    {
+        "title": "Lecture 41: Demonstration-XV",
+        "img": "https://i.ytimg.com/vi/uffpa4o7-9E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBEXHUBP-jyLUv7uxO7bKt2DAzVyA",
+        "url": "https://youtu.be/uffpa4o7-9E"
+    },
+    {
+        "title": "Lecture 42: AWT Programming--III",
+        "img": "https://i.ytimg.com/vi/4La3ChRGCtY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLASSb-qj9SQbokAuSFb--Hee1OU1w",
+        "url": "https://youtu.be/4La3ChRGCtY"
+    },
+    {
+        "title": "Lecture 43: Swing—I",
+        "img": "https://i.ytimg.com/vi/mQj34vUhpts/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBCQWkGBkI_iawCX-t4qMqwH7DutQ",
+        "url": "https://youtu.be/mQj34vUhpts"
+    },
+    {
+        "title": "Lecture 44: Swing—II",
+        "img": "https://i.ytimg.com/vi/FY3g4gGPhio/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBf7wciY1fKgJf5C3KqQo1ci1zpaA",
+        "url": "https://youtu.be/FY3g4gGPhio"
+    },
+    {
+        "title": "Lecture 45: Demonstration-XVI",
+        "img": "https://i.ytimg.com/vi/r8068SmxFXo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCE0r1cQVumMnnKp-pFR_TloBWmZA",
+        "url": "https://youtu.be/r8068SmxFXo"
+    },
+    {
+        "title": "Lecture 46: Demonstration-XVII",
+        "img": "https://i.ytimg.com/vi/QBLZ4aD-SiQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLADOctQADxlrLhNnRgR9zlVYpQ-Hg",
+        "url": "https://youtu.be/QBLZ4aD-SiQ"
+    },
+    {
+        "title": "Lecture 47: Demonstration-XVIII",
+        "img": "https://i.ytimg.com/vi/0Gnmx3mQeFA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA7udZ__ERuV7pCpMHSo98bl-OtJA",
+        "url": "https://youtu.be/0Gnmx3mQeFA"
+    },
+    {
+        "title": "Lecture 48: Networking with Java",
+        "img": "https://i.ytimg.com/vi/A-nBeR_2s7I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDKG2yKPl0Q3cTTWOgw-DIMpRx5VQ",
+        "url": "https://youtu.be/A-nBeR_2s7I"
+    },
+    {
+        "title": "Lecture 49: Demonstration-XIX",
+        "img": "https://i.ytimg.com/vi/iJUQHvsU68c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBe5V8VX8qwyhyp_KtcpN35mhQD4Q",
+        "url": "https://youtu.be/iJUQHvsU68c"
+    },
+    {
+        "title": "Lecture 50: JDBC—I",
+        "img": "https://i.ytimg.com/vi/ajhWv31oN1k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAQDjy2e0xU7V53cAQlY_3LH1eEZQ",
+        "url": "https://youtu.be/ajhWv31oN1k"
+    },
+    {
+        "title": "Lecture 51: JDBC—II",
+        "img": "https://i.ytimg.com/vi/v5vLuCBv8vg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBRxWG3vcaWeQFXh0hdbqTg5cqxFQ",
+        "url": "https://youtu.be/v5vLuCBv8vg"
+    },
+    {
+        "title": "Lecture 52: JDBC—III",
+        "img": "https://i.ytimg.com/vi/eEqPrlu28Sc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDaxcsUptg4WO5E5lRHLzQvdSxGXQ",
+        "url": "https://youtu.be/eEqPrlu28Sc"
+    },
+    {
+        "title": "Lecture 53: Demonstration—XX",
+        "img": "https://i.ytimg.com/vi/0PYh9Y-igz4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB9oA2OHqkhv_W3ufB-3MzxPRRraQ",
+        "url": "https://youtu.be/0PYh9Y-igz4"
+    },
+    {
+        "title": "Lecture 54: Demonstration—XXI",
+        "img": "https://i.ytimg.com/vi/j7fpQ6U4jvI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBDHbK2HXx8eehkGZWpVar5mL8FSw",
+        "url": "https://youtu.be/j7fpQ6U4jvI"
+    },
+    {
+        "title": "Lecture 55: Demonstration—XXII",
+        "img": "https://i.ytimg.com/vi/khXT_gUNlRc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCRn2GT8EOW8Obe0n0m1dKdFkzjTg",
+        "url": "https://youtu.be/khXT_gUNlRc"
+    },
+    {
+        "title": "Lecture 56: Case Studies—I",
+        "img": "https://i.ytimg.com/vi/IWORtnqgzEQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCyrAAxXwNzY_X9KnObxm-tUl0uaA",
+        "url": "https://youtu.be/IWORtnqgzEQ"
+    },
+    {
+        "title": "Lecture 57: Case Studies—II",
+        "img": "https://i.ytimg.com/vi/1JH31fFyGjY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAI3fIM3HVG44AGOw798B4dq46VOA",
+        "url": "https://youtu.be/1JH31fFyGjY"
+    },
+    {
+        "title": "Lecture 58: Case Studies—III",
+        "img": "https://i.ytimg.com/vi/1PgVAM5kkNs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBUV8JJDVCVJ3yyvtTCe24PwqxMrg",
+        "url": "https://youtu.be/1PgVAM5kkNs"
+    },
+    {
+        "title": "Lecture 59: Case Studies—IV",
+        "img": "https://i.ytimg.com/vi/sRJPJVN1dJQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBNRHWww2lUw97e_thXO2dkD6WWvA",
+        "url": "https://youtu.be/sRJPJVN1dJQ"
+    },
+    {
+        "title": "Lecture 60: Case Studies—V",
+        "img": "https://i.ytimg.com/vi/Nwwtio_Qd2I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBN4MoJoLeg6wzOpO0qBww0Gg9Myw",
+        "url": "https://youtu.be/Nwwtio_Qd2I"
+    }
+]

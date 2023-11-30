@@ -1,0 +1,302 @@
+[
+    {
+      "title": "Lecture 01: Introduction- I",
+      "img": "https://i.ytimg.com/vi_webp/Ln_LP7c23WM/hqdefault.webp",
+      "url": "https://youtu.be/Ln_LP7c23WM"
+    },
+    {
+      "title": "Lecture 02: Introduction- II",
+      "img": "https://i.ytimg.com/vi_webp/PM73z4SwvIQ/hqdefault.webp",
+      "url": "https://youtu.be/PM73z4SwvIQ"
+    },
+    {
+      "title": "Lecture 03: Introduction- III",
+      "img": "https://i.ytimg.com/vi_webp/nM4O7S_ASSw/hqdefault.webp",
+      "url": "https://youtu.be/nM4O7S_ASSw"
+    },
+    {
+      "title": "Lecture 04: Introduction- IV",
+      "img": "https://i.ytimg.com/vi_webp/gvdgaJIUcMA/hqdefault.webp",
+      "url": "https://youtu.be/gvdgaJIUcMA"
+    },
+    {
+      "title": "Lecture 05: Introduction- V",
+      "img": "https://i.ytimg.com/vi_webp/cNG4KuoyfiI/hqdefault.webp",
+      "url": "https://youtu.be/cNG4KuoyfiI"
+    },
+    {
+      "title": "Lecture 06: Life Cycle Model",
+      "img": "https://i.ytimg.com/vi_webp/OT2O7uNldQk/hqdefault.webp",
+      "url": "https://youtu.be/OT2O7uNldQk"
+    },
+    {
+      "title": "Lecture 07: Life Cycle Model (Contd.)",
+      "img": "https://i.ytimg.com/vi_webp/_ziaLmfToSk/hqdefault.webp",
+      "url": "https://youtu.be/_ziaLmfToSk"
+    },
+    {
+      "title": "Lecture 08: Waterfall Model",
+      "img": "https://i.ytimg.com/vi_webp/zKWeXjpFeRw/hqdefault.webp",
+      "url": "https://youtu.be/zKWeXjpFeRw"
+    },
+    {
+      "title": "Lecture 09: Waterfall Derivatives",
+      "img": "https://i.ytimg.com/vi_webp/tF9Njt-XW3E/hqdefault.webp",
+      "url": "https://youtu.be/tF9Njt-XW3E"
+    },
+    {
+      "title": "Lecture 10: Incremental Model",
+      "img": "https://i.ytimg.com/vi_webp/xl9Rtc4Ga1U/hqdefault.webp",
+      "url": "https://youtu.be/xl9Rtc4Ga1U"
+    },
+    {
+      "title": "Lecture 11: Evolutionary Model",
+      "img": "https://i.ytimg.com/vi_webp/XKW9TWrxxPo/hqdefault.webp",
+      "url": "https://youtu.be/XKW9TWrxxPo"
+    },
+    {
+      "title": "Lecture 12: Agile Model",
+      "img": "https://i.ytimg.com/vi_webp/x90kIAFGYKE/hqdefault.webp",
+      "url": "https://youtu.be/x90kIAFGYKE"
+    },
+    {
+      "title": "Lecture 13: Extreme Programming and Scrum",
+      "img": "https://i.ytimg.com/vi_webp/td7mY7x_Tk0/hqdefault.webp",
+      "url": "https://youtu.be/td7mY7x_Tk0"
+    },
+    {
+      "title": "Lecture 14: Scrum",
+      "img": "https://i.ytimg.com/vi_webp/gWYw4gKgmPk/hqdefault.webp",
+      "url": "https://youtu.be/gWYw4gKgmPk"
+    },
+    {
+      "title": "Lecture 15: Introduction to requirement specification",
+      "img": "https://i.ytimg.com/vi_webp/l9XFipXoJb0/hqdefault.webp",
+      "url": "https://youtu.be/l9XFipXoJb0"
+    },
+    {
+      "title": "Lecture 16: Requirement gathering and analysis",
+      "img": "https://i.ytimg.com/vi_webp/ul6nW1g3xK0/hqdefault.webp",
+      "url": "https://youtu.be/ul6nW1g3xK0"
+    },
+    {
+      "title": "Lecture 17: Functional requirements",
+      "img": "https://i.ytimg.com/vi_webp/PR_ZwLfjWrA/hqdefault.webp",
+      "url": "https://youtu.be/PR_ZwLfjWrA"
+    },
+    {
+      "title": "Lecture 18: Representation of complex programming logic",
+      "img": "https://i.ytimg.com/vi_webp/mND1i92IBps/hqdefault.webp",
+      "url": "https://youtu.be/mND1i92IBps"
+    },
+    {
+      "title": "Lecture 19: Design Fundamentals",
+      "img": "https://i.ytimg.com/vi_webp/5q_KBeNlRFk/hqdefault.webp",
+      "url": "https://youtu.be/5q_KBeNlRFk"
+    },
+    {
+      "title": "Lecture 20: Modular Design",
+      "img": "https://i.ytimg.com/vi_webp/FTyncRpLd5g/hqdefault.webp",
+      "url": "https://youtu.be/FTyncRpLd5g"
+    },
+    {
+      "title": "Lecture 21: Classification of Cohesion",
+      "img": "https://i.ytimg.com/vi_webp/40Du7ear5v8/hqdefault.webp",
+      "url": "https://youtu.be/40Du7ear5v8"
+    },
+    {
+      "title": "Lecture 22: Classification of Coupling",
+      "img": "https://i.ytimg.com/vi_webp/OFxBjpE8mT0/hqdefault.webp",
+      "url": "https://youtu.be/OFxBjpE8mT0"
+    },
+    {
+      "title": "Lecture 23: Introduction to structured analysis and structured design",
+      "img": "https://i.ytimg.com/vi_webp/69PIhEvYmm8/hqdefault.webp",
+      "url": "https://youtu.be/69PIhEvYmm8"
+    },
+    {
+      "title": "Lecture 24: Basics of Data Flow Diagrams (DFD)",
+      "img": "https://i.ytimg.com/vi_webp/e6HjDcd4U6U/hqdefault.webp",
+      "url": "https://youtu.be/e6HjDcd4U6U"
+    },
+    {
+      "title": "Lecture 25: Developing DFD Model",
+      "img": "https://i.ytimg.com/vi_webp/PvYTyXJiwuo/hqdefault.webp",
+      "url": "https://youtu.be/PvYTyXJiwuo"
+    },
+    {
+      "title": "Lecture 26: Examples of DFD Model development",
+      "img": "https://i.ytimg.com/vi_webp/OAPV00_0hSk/hqdefault.webp",
+      "url": "https://youtu.be/OAPV00_0hSk"
+    },
+    {
+      "title": "Lecture 27: DFD Model - More Examples",
+      "img": "https://i.ytimg.com/vi_webp/qgWuZcnmVrk/hqdefault.webp",
+      "url": "https://youtu.be/qgWuZcnmVrk"
+    },
+    {
+      "title": "Lecture 28: Essentials of Structure Chart",
+      "img": "https://i.ytimg.com/vi_webp/3253sqmQ6OA/hqdefault.webp",
+      "url": "https://youtu.be/3253sqmQ6OA"
+    },
+    {
+      "title": "Lecture 29: Structure Chart Development",
+      "img": "https://i.ytimg.com/vi_webp/iskh2c4jAZE/hqdefault.webp",
+      "url": "https://youtu.be/iskh2c4jAZE"
+    },
+    {
+      "title": "Lecture 30: Structured Design Examples",
+      "img": "https://i.ytimg.com/vi_webp/rjCYo81J0rU/hqdefault.webp",
+      "url": "https://youtu.be/rjCYo81J0rU"
+    },
+    {
+      "title": "Lecture 31: Use Case Modelling",
+      "img": "https://i.ytimg.com/vi_webp/7wo9PHfkyik/hqdefault.webp",
+      "url": "https://youtu.be/7wo9PHfkyik31"
+    },
+    {
+      "title": "Lecture 32: Factoring Use Cases",
+      "img": "https://i.ytimg.com/vi_webp/lZMdb_RUmAQ/hqdefault.webp",
+      "url": "https://youtu.be/lZMdb_RUmAQ"
+    },
+    {
+      "title": "Lecture 33: Overview of Class diagram",
+      "img": "https://i.ytimg.com/vi_webp/z5bsXJ5lnpk/hqdefault.webp",
+      "url": "https://youtu.be/z5bsXJ5lnpk"
+    },
+    {
+      "title": "Lecture 34: Inheritance relationship",
+      "img": "https://i.ytimg.com/vi_webp/wDRmM9LCLoE/hqdefault.webp",
+      "url": "https://youtu.be/wDRmM9LCLoE"
+    },
+    {
+      "title": "Lecture 35: Association relationship",
+      "img": "https://i.ytimg.com/vi_webp/7Pc5-birfmk/hqdefault.webp",
+      "url": "https://youtu.be/7Pc5-birfmk"
+    },
+    {
+      "title": "Lecture 36: Aggregation/ Composition and dependency relations",
+      "img": "https://i.ytimg.com/vi_webp/9KokDbcr6cM/hqdefault.webp",
+      "url": "https://youtu.be/9KokDbcr6cM"
+    },
+    {
+      "title": "Lecture 37: Interation Modelling",
+      "img": "https://i.ytimg.com/vi_webp/azTLDkiqGVk/hqdefault.webp",
+      "url": "https://youtu.be/azTLDkiqGVk"
+    },
+    {
+      "title": "Lecture 38: Development of Sequence diagrams",
+      "img": "https://i.ytimg.com/vi_webp/RFosHwXYLg4/hqdefault.webp",
+      "url": "https://youtu.be/RFosHwXYLg4"
+    },
+    {
+      "title": "Lecture 39: State-Machine diagram",
+      "img": "https://i.ytimg.com/vi_webp/RoQ__mLv1hM/hqdefault.webp",
+      "url": "https://youtu.be/RoQ__mLv1hM"
+    },
+    {
+      "title": "Lecture 40: An Object-Oriented design process",
+      "img": "https://i.ytimg.com/vi_webp/Ie7qzy3SY-E/hqdefault.webp",
+      "url": "https://youtu.be/Ie7qzy3SY-E"
+    },
+    {
+      "title": "Lecture 41: Domain Analysis",
+      "img": "https://i.ytimg.com/vi_webp/15FYNqkKfrc/hqdefault.webp",
+      "url": "https://youtu.be/15FYNqkKfrc"
+    },
+    {
+      "title": "Lecture 42: Examples of object-oriented design",
+      "img": "https://i.ytimg.com/vi_webp/AFOIMsgpJP0/hqdefault.webp",
+      "url": "https://youtu.be/AFOIMsgpJP0"
+    },
+    {
+      "title": "Lecture 43: Basic concepts in Testing-I",
+      "img": "https://i.ytimg.com/vi_webp/_9bmWEMhGFU/hqdefault.webp",
+      "url": "https://youtu.be/_9bmWEMhGFU"
+    },
+    {
+      "title": "Lecture 44: Basic concepts in Testing-II",
+      "img": "https://i.ytimg.com/vi_webp/Su-bw6Of-g8/hqdefault.webp",
+      "url": "https://youtu.be/Su-bw6Of-g8"
+    },
+    {
+      "title": "Lecture 45: Basic concepts in Testing-III",
+      "img": "https://i.ytimg.com/vi_webp/TSacDWHGlWU/hqdefault.webp",
+      "url": "https://youtu.be/TSacDWHGlWU"
+    },
+    {
+      "title": "Lecture 46: Unit testing strategies-I",
+      "img": "https://i.ytimg.com/vi_webp/reTh1y7ZH_A/hqdefault.webp",
+      "url": "https://youtu.be/reTh1y7ZH_A"
+    },
+    {
+      "title": "Lecture 47: Unit testing strategies-II",
+      "img": "https://i.ytimg.com/vi_webp/ZIUJDS3O0BQ/hqdefault.webp",
+      "url": "https://youtu.be/ZIUJDS3O0BQ"
+    },
+    {
+      "title": "Lecture 48: Equivalance Class Testing-I",
+      "img": "https://i.ytimg.com/vi_webp/QmBmRzzD2KM/hqdefault.webp",
+      "url": "https://youtu.be/QmBmRzzD2KM"
+    },
+    {
+      "title": "Lecture 49: Equivalance Class Testing-II",
+      "img": "https://i.ytimg.com/vi_webp/zH0zbNj1qZc/hqdefault.webp",
+      "url": "https://youtu.be/zH0zbNj1qZc"
+    },
+    {
+      "title": "Lecture 50: Special Value Testing",
+      "img": "https://i.ytimg.com/vi_webp/RkEEmrj5odE/hqdefault.webp",
+      "url": "https://youtu.be/RkEEmrj5odE"
+    },
+    {
+      "title": "Lecture 51: Combinatorial Testing",
+      "img": "https://i.ytimg.com/vi_webp/BIA-kQjAkZI/hqdefault.webp",
+      "url": "https://youtu.be/BIA-kQjAkZI"
+    },
+    {
+      "title": "Lecture 52: Decision Table Testing",
+      "img": "https://i.ytimg.com/vi_webp/ds7MIuNdJz8/hqdefault.webp",
+      "url": "https://youtu.be/ds7MIuNdJz8"
+    },
+    {
+      "title": "Lecture 53: Cause effect graphing",
+      "img": "https://i.ytimg.com/vi_webp/QU_jI6F0ndQ/hqdefault.webp",
+      "url": "https://youtu.be/QU_jI6F0ndQ"
+    },
+    {
+      "title": "Lecture 54: Pairwise Testing",
+      "img": "https://i.ytimg.com/vi_webp/PPojYKImWG8/hqdefault.webp",
+      "url": "https://youtu.be/PPojYKImWG8"
+    },
+    {
+      "title": "Lecture 55: White box Testing",
+      "img": "https://i.ytimg.com/vi_webp/pXkCkRgPFrc/hqdefault.webp",
+      "url": "https://youtu.be/pXkCkRgPFrc"
+    },
+    {
+      "title": "Lecture 56: Condition Testing",
+      "img": "https://i.ytimg.com/vi_webp/u43CvemmDEk/hqdefault.webp",
+      "url": "https://youtu.be/u43CvemmDEk"
+    },
+    {
+      "title": "Lecture 57: MC/DC Coverage",
+      "img": "https://i.ytimg.com/vi_webp/orwspdC4PC0/hqdefault.webp",
+      "url": "https://youtu.be/orwspdC4PC0"
+    },
+    {
+      "title": "Lecture 58: MC/DC Testing",
+      "img": "https://i.ytimg.com/vi_webp/lazvIT0jWD4/hqdefault.webp",
+      "url": "https://youtu.be/lazvIT0jWD4"
+    },
+    {
+      "title": "Lecture 59: Path Testing",
+      "img": "https://i.ytimg.com/vi_webp/TAFhCV721tY/hqdefault.webp",
+      "url": "https://youtu.be/TAFhCV721tY"
+    },
+    {
+      "title": "Lecture 60: Dataflow and Mutation Testing",
+      "img": "https://i.ytimg.com/vi_webp/rG9wQvvJHYI/hqdefault.webp",
+      "url": "https://youtu.be/rG9wQvvJHYI"
+    }
+  ]

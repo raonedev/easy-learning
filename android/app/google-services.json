@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926947851971",
+    "project_id": "hackuniv-48d50",
+    "storage_bucket": "hackuniv-48d50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926947851971:android:e898e9b5c7524b42e3ac76",
+        "android_client_info": {
+          "package_name": "com.gjust.aman.hackuniv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx3LZzdpByUPTW4cezCUWF7xWNfjcYJ1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

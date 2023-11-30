@@ -1,0 +1,172 @@
+[
+    {
+        "title": "Lecture - 1 Overview of the course",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/5Y8Lfsreeck"
+    },
+    {
+        "title": "Lecture - 2 Framework for Algorithms Analysis",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/7KQf7f8ti1U"
+    },
+    {
+        "title": "Lecture - 3 Algorithms Analysis Framework - II",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/PVrbRrI0jG4"
+    },
+    {
+        "title": "Lecture - 4 Asymptotic Notation",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/EL9T1ngiCqA"
+    },
+    {
+        "title": "Lecture -5 Algorithm Design Techniques : Basics",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/Ou29NNWTSaw"
+    },
+    {
+        "title": "Lecture -6 Divide And Conquer-I",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/i2xhlKLJ5FI"
+    },
+    {
+        "title": "Lecture -7 Divide And Conquer -II Median Finding",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/OcAT3kP7LQw"
+    },
+    {
+        "title": "Lecture -8 Divide And Conquer -III Surfing Lower Bounds",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/7Fs8ztPiUM8"
+    },
+    {
+        "title": "Lecture -9 Divide And Conquer -IV Closest Pair",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/frir6Sf7ft4"
+    },
+    {
+        "title": "Lecture -10 Greedy Algorithms -I",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/EcT-Jt5WStw"
+    },
+    {
+        "title": "Lecture - 11 Greedy Algorithms - II",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/L1PvJO_1f84"
+    },
+    {
+        "title": "Lecture - 12 Greedy Algorithms - III",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/srOghUgUZAQ"
+    },
+    {
+        "title": "Lecture - 13 Greedy Algorithms - IV",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/kjgsmpZqfSg"
+    },
+    {
+        "title": "Lecture - 14 Pattern Matching - I",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/EEjNb9yUv1k"
+    },
+    {
+        "title": "Lecture - 15 Pattern Matching - II",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/RYUGTzI-f-A"
+    },
+    {
+        "title": "Lecture -16 Combinational Search and Optimization I",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/nSPBb71RS4c"
+    },
+    {
+        "title": "Lecture - 17 Combinational Search and Optimization II",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/PPFl2I6YVUo"
+    },
+    {
+        "title": "Lecture -18 Dynamic Programming",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/6h6Fi6AQiRM"
+    },
+    {
+        "title": "Lecture 19 Longest Common Subsequences",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/ml0i13Uvmuc"
+    },
+    {
+        "title": "Lecture -20 Matric Chain Multiplication",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/SmezuxrJ9PM"
+    },
+    {
+        "title": "Lecture - 21 Scheduling with Startup and Holding Costs",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/mDBEsuEKdNU"
+    },
+    {
+        "title": "Lecture - 22 Average case Analysis of Quicksort",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/-kh9oFK8R7s"
+    },
+    {
+        "title": "Lecture - 23 Bipartite Maximum Matching",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/NlQqmEXuiC8"
+    },
+    {
+        "title": "Lecture - 24 Lower Bounds for Sorting",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/nG0yzG_9rPg"
+    },
+    {
+        "title": "Lecture -25 Element Distinctness Lower Bounds",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/32RY1jV4hB8"
+    },
+    {
+        "title": "Lecture -26 NP-Completeness-I -Motivation",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/id7k6gUkZ8Y"
+    },
+    {
+        "title": "Lecture - 27 NP - Compliteness - II",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/76n4BjlL1cs"
+    },
+    {
+        "title": "Lecture - 28 NP-Completeness - III",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/bE4d4IiOEQk"
+    },
+    {
+        "title": "Lecture - 29 NP-Completeness - IV",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/eOrxeu3GNrI"
+    },
+    {
+        "title": "Lecture - 30 NP-Completeness - V",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/8Rlh-95PJa4"
+    },
+    {
+        "title": "Lecture - 31 NP-Completeness - VI",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/DBdBEziisrY"
+    },
+    {
+        "title": "Lecture - 32 Approximation Algorithms",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/Dd0XNsAkkqE"
+    },
+    {
+        "title": "Lecture - 33 Approximation Algorithms",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/9IKn95dzXRM"
+    },
+    {
+        "title": "Lecture - 34 Approximation Algorithms for NP",
+        "img": "https://drive.google.com/uc?id=1awwhSHmCA46nF8txhFLCZGks-IM-6bpC&export=download",
+        "url": "https://youtu.be/44XwlVVy1T8"
+    }
+]

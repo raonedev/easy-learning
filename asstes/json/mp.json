@@ -1,0 +1,187 @@
+[
+    {
+        "title": "Microprocessors and Interfacing",
+        "img": "https://i.ytimg.com/vi/0t4LROuEVnw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC4d3bggZt5IR8dIpWqCWqDnOdL6A",
+        "url": "https://youtu.be/0t4LROuEVnw"
+    },
+    {
+        "title": "Lec 1 : Microprocessor Operations",
+        "img": "https://i.ytimg.com/vi/06SEE6GmT-8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBH2sAe9UOlherhaRmvdCW7cCm4aA",
+        "url": "https://youtu.be/06SEE6GmT-8"
+    },
+    {
+        "title": "Lec 2 : 8086 Flags",
+        "img": "https://i.ytimg.com/vi/P_iZzqqjQSI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-oVChY48zYCjqBXXHf94HZpl-sg",
+        "url": "https://youtu.be/P_iZzqqjQSI"
+    },
+    {
+        "title": "Lec 3 : Functional Diagram of 8086",
+        "img": "https://i.ytimg.com/vi/PVSuHva0Wrk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDxdsnncaXpxLTDge0WrImtCdsV2A",
+        "url": "https://youtu.be/PVSuHva0Wrk"
+    },
+    {
+        "title": "Lec 4 : 8086 Common and Minimum Mode Signals",
+        "img": "https://i.ytimg.com/vi/qLu-O5dgqfk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDGfcnL8gY8GiALshCOVYNC-hwinA",
+        "url": "https://youtu.be/qLu-O5dgqfk"
+    },
+    {
+        "title": "Lec 5 : 8086 Maximum Mode Signals",
+        "img": "https://i.ytimg.com/vi/PI3RlJMoRik/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBksIZmxIherUAHcM6mxKVLMZ6Xrw",
+        "url": "https://youtu.be/PI3RlJMoRik"
+    },
+    {
+        "title": "Lec 6 : 8086 Data Transfer Instructions",
+        "img": "https://i.ytimg.com/vi/t6vExgDyjBg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBE2Am_7ulKeZeIPniHAfFsbH8ewA",
+        "url": "https://youtu.be/t6vExgDyjBg"
+    },
+    {
+        "title": "Lec 7 : 8086 Arithmetic Instructions I",
+        "img": "https://i.ytimg.com/vi/B2nvUuExcPE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC4f65snONaCFvI_REPmoRBT9udNg",
+        "url": "https://youtu.be/B2nvUuExcPE"
+    },
+    {
+        "title": "Lec 8 : 8086 Arithmetic Instructions II",
+        "img": "https://i.ytimg.com/vi/sAnQCMZsAoU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBoAjegiTmdm9A9uVqZQGLeWsbzeQ",
+        "url": "https://youtu.be/sAnQCMZsAoU"
+    },
+    {
+        "title": "Lec 9 : 8086 Logical Instructions",
+        "img": "https://i.ytimg.com/vi/37JraG0F9s8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC8TaHQsY09ZUqZSQ8r59zlgTQ0ww",
+        "url": "https://youtu.be/37JraG0F9s8"
+    },
+    {
+        "title": "Lec 10 : 8086 Branch & String Instructions",
+        "img": "https://i.ytimg.com/vi/BuSFkBzOwnY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLASs5VnPRzVN1onJrIymugUs4jaJw",
+        "url": "https://youtu.be/BuSFkBzOwnY"
+    },
+    {
+        "title": "Lec 11 : 8086 Interrupt and Machine Control Instructions",
+        "img": "https://i.ytimg.com/vi/msrvIagARr8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLACu7qutU4A3SVPi1s5BVYrzI85mg",
+        "url": "https://youtu.be/msrvIagARr8"
+    },
+    {
+        "title": "Lec 12 : Sum of Products, Multi-byte addition",
+        "img": "https://i.ytimg.com/vi/SwvW0rrAwNw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCUF6cigsy1WWgMZ8Gh_yc7uxok6w",
+        "url": "https://youtu.be/SwvW0rrAwNw"
+    },
+    {
+        "title": "Lec 13 : Largest number, 2's complement Programs",
+        "img": "https://i.ytimg.com/vi/vT44mWG8jBE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAGb-LUgZGeDdEW_eIPKJl_ZSlkeg",
+        "url": "https://youtu.be/vT44mWG8jBE"
+    },
+    {
+        "title": "Lec 14 : Programs on Subroutines",
+        "img": "https://i.ytimg.com/vi/cBeamxglwvE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDMYBBHwH6DLDNATHu3P_YkAYRfGg",
+        "url": "https://youtu.be/cBeamxglwvE"
+    },
+    {
+        "title": "Lec 15 : ROM, RAM",
+        "img": "https://i.ytimg.com/vi/_i6uDhuNOzw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBCzsB9BODvDxwThPJ_pKcQgxbnYg",
+        "url": "https://youtu.be/_i6uDhuNOzw"
+    },
+    {
+        "title": "Lec 16: Example I",
+        "img": "https://i.ytimg.com/vi/QSjawLSq0pw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB-qkp6fPWU9AHloPLGirr_-fkZSw",
+        "url": "https://youtu.be/QSjawLSq0pw"
+    },
+    {
+        "title": "Lec 17: Example II",
+        "img": "https://i.ytimg.com/vi/ScBx_YRPuH8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDk_SmRGlnqOJTpiEA7kWKD3M9M6A",
+        "url": "https://youtu.be/ScBx_YRPuH8"
+    },
+    {
+        "title": "Lec 18: Architecture, Interfacing to Simple I/O",
+        "img": "https://i.ytimg.com/vi/51tjzIdATwg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDkdPs1F8_izNos6NhPgGWxnQFdJA",
+        "url": "https://youtu.be/51tjzIdATwg"
+    },
+    {
+        "title": "Lec 19 : Keyboard Interface",
+        "img": "https://i.ytimg.com/vi/xmrvkfl4XBY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDx7K7clDfwCl9M-jq--7Ocjenqsg",
+        "url": "https://youtu.be/xmrvkfl4XBY"
+    },
+    {
+        "title": "Lec 20 : 7-segment Display Interface",
+        "img": "https://i.ytimg.com/vi/VG7Qnj2o_Ec/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDfkmL0LUmZALaeHkakJSf5M8PY2A",
+        "url": "https://youtu.be/VG7Qnj2o_Ec"
+    },
+    {
+        "title": "Lec 21 : Multiplexed 7-sgment Display Interface",
+        "img": "https://i.ytimg.com/vi/W3VP4wEIB2c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBS4CJ0GXeZimOILUzVImvHBCT0bQ",
+        "url": "https://youtu.be/W3VP4wEIB2c"
+    },
+    {
+        "title": "Lec 22: Stepper motor, Liquid level control",
+        "img": "https://i.ytimg.com/vi/Zyh3FmcZJB0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD9zwV-Mygw-C47Os39MXtL7hIqkA",
+        "url": "https://youtu.be/Zyh3FmcZJB0"
+    },
+    {
+        "title": "Lec 23: Traffic light control, A/D converter",
+        "img": "https://i.ytimg.com/vi/Ts3xbfXm2nI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB_GVFX_g66dt-_oO0HkM1Bzao_UA",
+        "url": "https://youtu.be/Ts3xbfXm2nI"
+    },
+    {
+        "title": "Lec 24: D/A converter",
+        "img": "https://i.ytimg.com/vi/0GOYLZiNq6o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAgoC5Z6LYJV2ZyVVRbUpnBtGxsMQ",
+        "url": "https://youtu.be/0GOYLZiNq6o"
+    },
+    {
+        "title": "Lec 25: Electronic weighing machine",
+        "img": "https://i.ytimg.com/vi/1aDc04EhhkQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA7SmcBL0zAs068oWT_LcPh_Y2p_g",
+        "url": "https://youtu.be/1aDc04EhhkQ"
+    },
+    {
+        "title": "Lec 26: Programable Interval Timer (8254)",
+        "img": "https://i.ytimg.com/vi/e0F9pE4R1YY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCmNEhccurV_MWfa7-kEgZtRj5SDg",
+        "url": "https://youtu.be/e0F9pE4R1YY"
+    },
+    {
+        "title": "Lec 27: Modes of 8254",
+        "img": "https://i.ytimg.com/vi/FjaKOS-pG3M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCwMOSmtpsK-BDyoc2y5kRbyAiZjg",
+        "url": "https://youtu.be/FjaKOS-pG3M"
+    },
+    {
+        "title": "Lec 28: Architecture of 8259",
+        "img": "https://i.ytimg.com/vi/Uq8X76BrQR8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDxfK6mIO-bFg9I21UVFbliG5F9rg",
+        "url": "https://youtu.be/Uq8X76BrQR8"
+    },
+    {
+        "title": "Lec 29: Initialization command words of 8259",
+        "img": "https://i.ytimg.com/vi/u5R924YVx0k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAexyud4iNfpngdSAmLjZeEmg6_Nw",
+        "url": "https://youtu.be/u5R924YVx0k"
+    },
+    {
+        "title": "Lec 30: Operational command words of 8259",
+        "img": "https://i.ytimg.com/vi/BbKB8WAjQpI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAzqRhNdV-IbYn8tPwZe5snhK2eNw",
+        "url": "https://youtu.be/BbKB8WAjQpI"
+    },
+    {
+        "title": "Lect 31: 8237 Architecture, interfacing and Programming",
+        "img": "https://i.ytimg.com/vi/F8iR_3488PA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD6j9SRT5aOLhEVA5LKzDJkcsATUg",
+        "url": "https://youtu.be/F8iR_3488PA"
+    },
+    {
+        "title": "Lec 32: Basic Concepts of serial I/O",
+        "img": "https://i.ytimg.com/vi/bz1FX1kGfIw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAQUDOltxIZ6sRnPpYlETxEFWh_uw",
+        "url": "https://youtu.be/bz1FX1kGfIw"
+    },
+    {
+        "title": "Lec 33: Basic Concepts of serial I/O contd...",
+        "img": "https://i.ytimg.com/vi/TXPXf8di1m4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC7JYDhTrs23hhbEkv7stby1DZ5nw",
+        "url": "https://youtu.be/TXPXf8di1m4"
+    },
+    {
+        "title": "Lec 34: Architecture of 8251",
+        "img": "https://i.ytimg.com/vi/K4OnI-RvA3Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB4jDPxu-F4UU44cg_NEfUQeXeJDw",
+        "url": "https://youtu.be/K4OnI-RvA3Q"
+    },
+    {
+        "title": "Lec 35: Contol and Status Word Formats of 8251",
+        "img": "https://i.ytimg.com/vi/TUJoMgaatFk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDlU7KPgJanmQB4wtWiGKRzsZo6TQ",
+        "url": "https://youtu.be/TUJoMgaatFk"
+    },
+    {
+        "title": "Lec 36: 8251 Interfacing Example",
+        "img": "https://i.ytimg.com/vi/SfuckLiiE2Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBy4AfPnzxt4g3zvKMLNOcUOkrygA",
+        "url": "https://youtu.be/SfuckLiiE2Q"
+    }
+]
